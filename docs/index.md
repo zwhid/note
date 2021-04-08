@@ -1,7 +1,7 @@
 ---
 hero:
   title: 前端笔记
-  desc: 记录
+  # desc: 八百里路云和月。
   actions:
     - text: 开始 →
       link: /wheel/手写commonjs规范/前置知识

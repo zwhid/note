@@ -8,7 +8,6 @@ export default defineConfig({
   outputPath: 'dist',
   base: '/note/',
   publicPath: '/note/',
-  dynamicImport: {},
   navs: [
     { title: '造轮子学源码', path: '/wheel' },
     { title: 'Node.js', path: '/node.js' },
