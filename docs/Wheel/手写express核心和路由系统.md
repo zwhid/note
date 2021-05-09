@@ -13,7 +13,7 @@
     └── route.js
 ```
 
-<img src="/Users/study/Library/Application Support/typora-user-images/image-20201016182407473.png" alt="image-20201016182407473" style="zoom:50%;" />
+<img src="http://qiniu.zwhid.online/uPic/12-47-46-wwfSyb.png" alt="image-20201016182407473" style="zoom:50%;" />
 
 ### 1.创建应用和路由系统
 ---

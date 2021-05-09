@@ -13,6 +13,7 @@ export default defineConfig({
     { title: 'Node.js', path: '/node.js' },
     { title: 'JavaScript', path: '/java-script' },
     { title: 'Vue', path: '/vue' },
+    { title: 'Webpack', path: '/webpack' },
     { title: '工程化', path: '/engineering' },
     { title: 'HTTP', path: '/http' },
     {
