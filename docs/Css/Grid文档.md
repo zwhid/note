@@ -1,10 +1,7 @@
 ---
 title: Grid文档
-date: 2019-04-12 22:00:00
+date: 2018-04-12 22:00:00
 categories: [CSS应用]
-# JavaScript基础, JavaScript应用, 正则表达式, WebApi, CSS应用, Vue
-# JavaScript初级算法题, JavaScript中级级算法题, JavaScript高级算法题
-# 设计模式, 框架设计
 ---
 
 ## 容器的属性
