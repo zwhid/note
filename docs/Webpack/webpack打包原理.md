@@ -1,4 +1,10 @@
-# webpack核心原理
+# webpack打包原理
+
+  1. 找到入口模块,然后拿到入口模块的源码
+  2. 解析源代码，找到它的依赖模块 ./hello.js
+  3. 对入口模块进行转换 require=>__webpack_require__  './hello.js'=>转成相对于项根路径的模块ID  ./src/hello.js
+  4. 递归解析它依赖的模块，比如hello.js
+  5. 最后把这些模块打包一个chunk里，然后生成bundle文件就可以。main.js
 
 
 
@@ -125,7 +131,7 @@ module.exports = webpack;
 
 
 
-##### main.js
+##### main.ejs
 
 ```ejs
 ((modules) => {
