@@ -2,9 +2,6 @@
 title: 算法中级-构造一个 Person 类
 date: 2019-04-12 22:00:00
 categories: [JavaScript中级级算法题]
-# JavaScript基础, JavaScript应用, 正则表达式, WebApi, CSS应用, Vue
-# JavaScript初级算法题, JavaScript中级级算法题, JavaScript高级算法题
-# 设计模式, 框架设计
 ---
 
 在这道题目中，我们需要写一个构造器（constructor）函数。它只接收一个字符串参数firstAndLast，这个参数代表一个英文名的全名（姓和名）。这个构造函数创建出的实例需要具有以下方法：

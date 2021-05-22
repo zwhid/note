@@ -2,9 +2,6 @@
 title: 算法中级-DNA配对
 date: 2019-04-12 22:00:00
 categories: [JavaScript中级级算法题]
-# JavaScript基础, JavaScript应用, 正则表达式, WebApi, CSS应用, Vue
-# JavaScript初级算法题, JavaScript中级级算法题, JavaScript高级算法题
-# 设计模式, 框架设计
 ---
 
 在这道题目中，我们需要写一个函数，为 DNA 中的碱基配对。这个函数只接收一个表示碱基的字符串为参数，最后返回完成配对的二维数组。
