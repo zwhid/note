@@ -5,8 +5,8 @@
 ```js
 var  arr = [1, 2, 3, 4, 5];
 sum = arr.reduce(function(prev, cur, index, arr) {
-    console.log(prevres, cur, index);
-    return prevres + cur;
+    console.log(prev, cur, index);
+    return prev + cur;
 })
 console.log(arr, sum);
 ```
