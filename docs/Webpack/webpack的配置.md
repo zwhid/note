@@ -1,5 +1,52 @@
 # webpack概述
 
+```bash
+npm i webpack webpack-cli webpack-dev-server -D
+```
+
+
+
+```js
+--open --port 3000 --hot --progress
+```
+
+> `--port 3000`指定端口（默认8080端口）
+>
+> `--hot` 热更新（5.x默认就是开启的）
+>
+> `--host 0.0.0.0` 允许服务器外部可访问（5.x默认就是开启的）
+>
+> `--open`自动打开浏览器
+>
+> `--progress` 显示打包进度
+>
+> `--compres` 压缩传输数据
+
+
+
+react环境的babel
+
+```bash
+npm i @babel/cli @babel/core babel-loader -D
+npm i @babel/preset-env @babel/preset-react -D
+```
+
+
+
+解析图片和字体
+
+```bash
+npm i url-loader file-loader -D
+```
+
+
+
+解析scss
+
+```js
+npm i style-loader css-loader sass-loader node-sass -D
+```
+
 
 
 ##  Loader和Plugin的区别?
@@ -16,7 +63,7 @@ const path = require('path');
 module.exports = {
   mode: 'development',//开发模式不压缩
   devtool: 'none',//不要产出sourcemap文件
-  entry: './src/index.js',//默认entry名字就是main
+  entry: './src/index.js',//默认entry路径就是这个
   optimization: {//设置优化选项
     splitChunks: {//分割代码块
       chunks: 'all',
