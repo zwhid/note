@@ -26,12 +26,10 @@
 
 以上都是宏任务
 
->-> timers setInterval 定时器 
+>-> timers setInterval 定时器
 >
 >-> poll 阶段 轮询 会在特定的时候进行阻塞 执行i/o回调
 >
 >-> check setImmediate  (每个宏任务执行完毕后都会清空微任务)
-
-
 
 每次从宏任务队列中拿出一个宏任务执行，完成后清空微任务队列（`process.nextTick()`，`promise`）
