@@ -51,6 +51,3 @@ SendRecord => getSmsMessagePage => status: 'send',
 
 ```
 
-
-
-https://onedrive.live.com?invref=6dcd2fc01ade2f77&invscr=90
