@@ -14,7 +14,6 @@ export default defineConfig({
     { title: 'Node.js', path: '/node.js' },
     { title: 'JavaScript', path: '/java-script' },
     { title: 'Vue2', path: '/vue2' },
-    { title: 'Vue3', path: '/vue3' },
     { title: 'Webpack', path: '/webpack' },
     { title: '工程化', path: '/engineering' },
     { title: 'HTTP', path: '/http' },
