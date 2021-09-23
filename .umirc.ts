@@ -33,7 +33,7 @@ export default defineConfig({
         { title: 'MongoDB', path: '/mongo-db' },
         { title: 'Python', path: '/python' },
         { title: '爬虫', path: '/crawl' },
-        { title: '算法', path: '/Algorithm' },
+        { title: '算法', path: '/algorithm' },
         { title: '其他', path: '/other' },
       ]
     },
