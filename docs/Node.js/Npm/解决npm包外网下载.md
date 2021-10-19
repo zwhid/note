@@ -55,3 +55,17 @@ puppeteer_download_host=http://npm.taobao.org/mirrors/chromium-browser-snapshots
 ```
 
 esc => wq 保存退出
+
+### 其他
+
+```bash
+# Linux & Mac
+$ env ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/ npm install
+
+# Windows
+$ set ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/
+$ npm install
+```
+
+
+
