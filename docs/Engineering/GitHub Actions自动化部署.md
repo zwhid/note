@@ -71,7 +71,7 @@ jobs:
 
 个人头像 => Settings => Developer settings => Personal access tokens
 
-<img src="http://qiniu.zwhid.online/uPic/09-22-31-BLu9gy.gif" alt="选择令牌作用域" style="zoom:80%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/09-22-31-BLu9gy.gif" alt="选择令牌作用域" style="zoom:80%;" />
 
 
 

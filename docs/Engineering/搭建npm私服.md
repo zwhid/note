@@ -50,7 +50,7 @@ warn --- http address - http://localhost:4873/ - verdaccio/4.8.1
 
 > 默认启动服务需要占用4873端口，若启动verdaccio服务失败请检查该端口是否被占用，或者手动修改对应的配置文件，修改其端口号。
 
-<img src="http://qiniu.zwhid.online//uPic/19-17-54-Uqd70V.png" alt="屏幕快照 2021-01-02 下午10.38.47" style="zoom:25%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/19-17-54-Uqd70V.png" alt="屏幕快照 2021-01-02 下午10.38.47" style="zoom:25%;" />
 
 按照地址可以编辑配置文件 `config.yaml`
 
@@ -168,7 +168,7 @@ listen: 0.0.0.0:4873
 
 当然最好的方法还是在 nrm 添加源，方便切换。[nrm的安装和应用](../node.js/npm/nrm的安装和应用.md)
 
-<img src="http://qiniu.zwhid.online/uPic/20-37-09-xMGsPM.png" alt="屏幕快照 2021-01-09 下午8.36.56" style="zoom:50%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/20-37-09-xMGsPM.png" alt="屏幕快照 2021-01-09 下午8.36.56" style="zoom:50%;" />
 
 ## 5.测试 npm 私有源
 
@@ -208,9 +208,9 @@ npm login
 npm publish
 ```
 
-<img src="http://qiniu.zwhid.online/uPic/20-43-47-JQDsww.png" alt="屏幕快照 2021-01-09 下午8.43.17" style="zoom: 50%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/20-43-47-JQDsww.png" alt="屏幕快照 2021-01-09 下午8.43.17" style="zoom: 50%;" />
 
-<img src="http://qiniu.zwhid.online/uPic/20-45-37-yXTzby.png" alt="屏幕快照 2021-01-09 下午8.45.26" style="zoom:25%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/20-45-37-yXTzby.png" alt="屏幕快照 2021-01-09 下午8.45.26" style="zoom:25%;" />
 
 发布成功，在管理平台也能看到多了一个包
 
@@ -229,14 +229,14 @@ npm init -y
 npm install npm-test mime -S
 ```
 
-<img src="http://qiniu.zwhid.online/uPic/20-51-35-x1nIVw.png" alt="屏幕快照 2021-01-09 下午8.51.05" style="zoom:50%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/20-51-35-x1nIVw.png" alt="屏幕快照 2021-01-09 下午8.51.05" style="zoom:50%;" />
 
 ### 5.3测试删除包
 
 ```bash
 npm unpublish npm-test --force
 ```
-<img src="http://qiniu.zwhid.online/uPic/21-00-40-5FhSQk.png" alt="屏幕快照 2021-01-09 下午9.00.09" style="zoom:50%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/21-00-40-5FhSQk.png" alt="屏幕快照 2021-01-09 下午9.00.09" style="zoom:50%;" />
 
 ## 6.通过 pm2 启动 verdaccio
 
@@ -265,7 +265,7 @@ pm2 delete all                 // 关闭并删除所有应用
 pm2 delete 0                   // 删除指定应用程序id为0的
 ```
 
-<img src="http://qiniu.zwhid.online/uPic/21-57-10-r5oYJr.png" alt="屏幕快照 2021-01-09 下午9.57.01" style="zoom:50%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/21-57-10-r5oYJr.png" alt="屏幕快照 2021-01-09 下午9.57.01" style="zoom:50%;" />
 
 ## 7.权限管理示例
 

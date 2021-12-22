@@ -35,7 +35,7 @@ nrm ls
 nrm use taobao
 ```
 
-![屏幕快照 2021-01-03 上午10.22.36](http://qiniu.zwhid.online//uPic/10-23-44-yTSXz7.png)
+![屏幕快照 2021-01-03 上午10.22.36](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/10-23-44-yTSXz7.png)
 
 ## 4.nrm 的其他命令
 
@@ -54,4 +54,4 @@ nrm test <registry>
 nrm current 
 ```
 
-![屏幕快照 2021-01-03 上午10.35.37](http://qiniu.zwhid.online//uPic/10-37-26-Ejy06s.png)
+![屏幕快照 2021-01-03 上午10.35.37](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/10-37-26-Ejy06s.png)

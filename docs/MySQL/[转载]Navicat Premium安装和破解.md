@@ -63,7 +63,7 @@ H+aU1Qu1ZYojFM1Gmbe4HeYDOzRsJ5BhNrrV12h27JWkiRJ4F/Q=
 
 ### 第二步：安装navicat
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702205550072-491030534.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702205550072-491030534.png)
 
  
 
@@ -71,15 +71,15 @@ H+aU1Qu1ZYojFM1Gmbe4HeYDOzRsJ5BhNrrV12h27JWkiRJ4F/Q=
 
 finder中，右键navicat ,打开目录 /Contents/Resources，编辑rpk文件，用第一步的公钥替换并保存。(如果该目录下面没有rpk文件,可以直接将第一步保存备用的rpk文件移动进去就行)
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702205612010-1130442141.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702205612010-1130442141.png)
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702205915728-248655544.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702205915728-248655544.png)
 
-![img](http://qiniu.zwhid.online//uPic/1364389-20190702205936113-975312381.png)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702205936113-975312381.png)
 
-![img](http://qiniu.zwhid.online//uPic/1364389-20190702205945178-605546280.png)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702205945178-605546280.png)
 
-![img](http://qiniu.zwhid.online//uPic/1364389-20190702205959612-2004704517.png)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702205959612-2004704517.png)
 
  
 
@@ -93,19 +93,19 @@ finder中，右键navicat ,打开目录 /Contents/Resources，编辑rpk文件，
 
 名和组织不填。如果出现下图，下面的两行文字，和右边的 ✔️，那么恭喜你，可以继续往下进行了。如果右边是黑色的❌,那么请从第一步再来一遍。
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702210026260-10114595.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702210026260-10114595.png)
 
  
 
 ### 第六步：由于断了网，则会出现如下内容，点击手动激活
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702210051346-1101604839.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702210051346-1101604839.png)
 
  
 
 ### 第七步：将以下请求码复制
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702210137899-1955941413.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702210137899-1955941413.png)
 
  
 
@@ -119,7 +119,7 @@ finder中，右键navicat ,打开目录 /Contents/Resources，编辑rpk文件，
 
 ​                           2：请检查第三部rpk文件是否替换成功！(如果没有出现很可能是这个原因,再确认一下)
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702210249515-758222442.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702210249515-758222442.png)
 
  
 
@@ -135,7 +135,7 @@ finder中，右键navicat ,打开目录 /Contents/Resources，编辑rpk文件，
 
 如下图所示，调整到现在的时间(不用那么精确,没关系)，并把Unix时间戳替换到上面的T后面,
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190702210443470-951173557.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702210443470-951173557.png)
 
  
 
@@ -143,7 +143,7 @@ finder中，右键navicat ,打开目录 /Contents/Resources，编辑rpk文件，
 
 将替换好的文本，放入第二个框中，点击**RSA加密**，得到加密后的文本
 
- ![img](http://qiniu.zwhid.online//uPic/1364389-20190706234317792-1751198029.png)
+ ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190706234317792-1751198029.png)
 
  
 
@@ -151,7 +151,7 @@ finder中，右键navicat ,打开目录 /Contents/Resources，编辑rpk文件，
 
 输入并点击激活。
 
-  ![img](http://qiniu.zwhid.online//uPic/1364389-20190702210651180-1422529951.png)
+  ![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/1364389-20190702210651180-1422529951.png)
 
  
 

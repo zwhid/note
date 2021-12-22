@@ -17,7 +17,7 @@
 - 网络层 IP 选择传输路线 (通过ip地址和mac地址)(使用ARP协议凭借mac地址进行通信)
 - 链路层 网络连接的硬件部分
 
-![img](http://qiniu.zwhid.online/uPic/19-14-45-ZjoSlh.png)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/19-14-45-ZjoSlh.png)
 
 ### HTTP特点
 
@@ -41,11 +41,11 @@
 
 ### http通信内容
 
-![img](http://qiniu.zwhid.online/uPic/19-15-05-tljK7u.png)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/19-15-05-tljK7u.png)
 
-![img](http://qiniu.zwhid.online/uPic/19-14-56-2W7KTs.png)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/19-14-56-2W7KTs.png)
 
-![img](http://qiniu.zwhid.online/uPic/19-15-13-en6YoW.png)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/19-15-13-en6YoW.png)
 
 ### HTTP方法
 

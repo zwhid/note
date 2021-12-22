@@ -13,7 +13,7 @@
     └── route.js
 ```
 
-<img src="http://qiniu.zwhid.online/uPic/12-47-46-wwfSyb.png" alt="image-20201016182407473" style="zoom:50%;" />
+<img src="https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/12-47-46-wwfSyb.png" alt="image-20201016182407473" style="zoom:50%;" />
 
 ### 1.创建应用和路由系统
 ---

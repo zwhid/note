@@ -52,4 +52,4 @@ JavaScript主线程是单线程的。作为浏览器脚本语言，JavaScript的
 
 以此循环。
 
-![img](http://qiniu.zwhid.online/uPic/19-16-21-Fi3aj4.jpg)
+![img](https://zwhid.oss-cn-shenzhen.aliyuncs.com/blog/19-16-21-Fi3aj4.jpg)
