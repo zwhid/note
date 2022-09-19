@@ -4,7 +4,7 @@ hero:
   # desc: 八百里路云和月。
   actions:
     - text: 开始 →
-      link: /wheel/手写commonjs规范/前置知识
+      link: /spring-cloud
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: Spring生态
