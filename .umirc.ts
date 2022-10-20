@@ -3,7 +3,6 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   mode: 'site',
   title: 'zwh',
-  // favicon: 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
   favicon: '/note/favicon.ico',
   logo: '/note/logo.png',
   outputPath: 'dist',
@@ -21,7 +20,7 @@ export default defineConfig({
       ],
     },
 
-    { title: 'Java', path: '/java-se' },
+    { title: 'JavaSE', path: '/java-se' },
 
     {
       title: '数据库',
