@@ -1,1 +1,0 @@
-import{_ as a,o as t,c,b as e,d as o}from"./app.dbfd2aa1.js";const r={},s=e("h1",{id:"标题java1",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#标题java1","aria-hidden":"true"},"#"),o(" 标题Java1")],-1),n=[s];function _(d,i){return t(),c("div",null,n)}const l=a(r,[["render",_],["__file","Java1.html.vue"]]);export{l as default};
